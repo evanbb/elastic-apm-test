@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastic.Apm.Test.Api", "Elastic.Apm.Test.Api.csproj", "{1539C5AA-E4AB-4596-9963-A721509CA86F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1539C5AA-E4AB-4596-9963-A721509CA86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1539C5AA-E4AB-4596-9963-A721509CA86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1539C5AA-E4AB-4596-9963-A721509CA86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1539C5AA-E4AB-4596-9963-A721509CA86F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
